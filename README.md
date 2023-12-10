@@ -1,2 +1,2 @@
 # IoT-Projects
-My initial Days projects
+My initial projects
